@@ -42,7 +42,7 @@
 Windows上の操作を自動化するアプリの作成経験・リリース経験がある。
 仮想通貨取引の自動売買BOTの作成経験がある。
 
-# 👉🏻 Web  :star: 
+# 👉🏻 Web
 **:star:多少の知識があるが、自走できる状態であるかは不安なレベル**
 
 ・**Java(Spring)**
@@ -59,7 +59,7 @@ WoocCommerceなどを利用したECサイトの構築経験がある。
 ・**HYML、CSS、BootStrap**
 簡単なLPの作成経験がある。
 
-# 👉🏻 InfraStructure  :star: 
+# 👉🏻 InfraStructure
 **:star:多少の知識があるが、自走できる状態であるかは不安なレベル**
 
 ・**Cloud**
@@ -77,7 +77,7 @@ WoocCommerceなどを利用したECサイトの構築経験がある。
 ・**Github**
   チーム開発での利用経験がある。
 
-# 👉🏻 Design :star: 
+# 👉🏻 Design
 **:star:多少の知識があるが、自走できる状態であるかは不安なレベル**
 
 ・**Adobe Premium Pro**
@@ -90,7 +90,7 @@ WoocCommerceなどを利用したECサイトの構築経験がある。
 ・**UX**
 　ユーザーのFBを通してのUI改善活動などを長年継続して行っているため、UXの高いデザインへの理解がある(PRに記載した事項)。
     
-# 👉🏻 Machine Learning :star:
+# 👉🏻 Machine Learning
 **:star:多少の知識があるが、自走できる状態であるかは不安なレベル**
 
 ・**Python(scikit-learn)**
